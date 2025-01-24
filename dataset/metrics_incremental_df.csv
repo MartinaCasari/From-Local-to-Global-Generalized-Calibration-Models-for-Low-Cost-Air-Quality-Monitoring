@@ -1,0 +1,95 @@
+city,type_sensor,num dataset,R2
+"Aosta, Badajoz",SPS030,2,0.8852112032621191
+"Aosta, Badajoz, Bangalore",SPS030,3,0.739696539049828
+"Aosta, Badajoz, Bangalore, Calgary",SPS030,4,0.7220340460158656
+"Aosta, Badajoz, Bangalore, Calgary, Delhi",SPS030,5,0.7017664749064354
+"Aosta, Badajoz, Bangalore, Calgary, Delhi, Hamirpur",SPS030,6,0.7127460810771248
+"Aosta, Badajoz, Bangalore, Calgary, Delhi, Hamirpur, Lima",SPS030,7,0.6971167862215728
+"Aosta, Badajoz, Bangalore, Calgary, Delhi, Hamirpur, Lima",SPS030,8,0.7010702952686023
+"Aosta, Badajoz, Bangalore, Calgary, Delhi, Hamirpur, Lima, Southampton",SPS030,9,0.39587604548158306
+"Aosta, Badajoz, Bangalore, Calgary, Delhi, Hamirpur, Lima, Southampton",SPS030,10,0.056879276403575374
+"Badajoz, Aosta",OPC-N3,1,0.7244438427112265
+"Badajoz, Aosta, Bangalore",OPC-N3,3,0.6584484711705556
+"Badajoz, Aosta, Bangalore, Calgary",OPC-N3,4,0.6545167031336371
+"Badajoz, Aosta, Bangalore, Calgary, Delhi",OPC-N3,5,0.6410481820673833
+"Badajoz, Aosta, Bangalore, Calgary, Delhi, Hamirpur",OPC-N3,6,0.6393729319010599
+"Badajoz, Aosta, Bangalore, Calgary, Delhi, Hamirpur, Lima",OPC-N3,7,0.6405206467731956
+"Badajoz, Aosta, Bangalore, Calgary, Delhi, Hamirpur, Lima",OPC-N3,8,0.6305034303769871
+"Badajoz, Aosta, Bangalore, Calgary, Delhi, Hamirpur, Lima, Southampton",OPC-N3,9,0.4596845286771276
+"Badajoz, Aosta, Bangalore, Calgary, Delhi, Hamirpur, Lima, Southampton",OPC-N3,10,0.4381952212366935
+"Bangalore, Aosta",PMS5003,1,0.8970707601662894
+"Bangalore, Aosta, Badajoz",PMS5003,2,0.891501126355823
+"Bangalore, Aosta, Badajoz, Calgary",PMS5003,4,0.8854806543670353
+"Bangalore, Aosta, Badajoz, Calgary, Delhi",PMS5003,5,0.8615472291956625
+"Bangalore, Aosta, Badajoz, Calgary, Delhi, Hamirpur",PMS5003,6,0.8612317678123209
+"Bangalore, Aosta, Badajoz, Calgary, Delhi, Hamirpur, Lima",PMS5003,7,0.8310598082604504
+"Bangalore, Aosta, Badajoz, Calgary, Delhi, Hamirpur, Lima",PMS5003,8,0.8414123076031839
+"Bangalore, Aosta, Badajoz, Calgary, Delhi, Hamirpur, Lima, Southampton",PMS5003,9,0.8150097703808536
+"Bangalore, Aosta, Badajoz, Calgary, Delhi, Hamirpur, Lima, Southampton",PMS5003,10,0.828851276434088
+"Calgary, Aosta",PMS5003,1,0.9752510681182504
+"Calgary, Aosta, Badajoz",PMS5003,2,0.9464048148067439
+"Calgary, Aosta, Badajoz, Bangalore",PMS5003,3,0.8939716084064098
+"Calgary, Aosta, Badajoz, Bangalore, Delhi",PMS5003,5,0.7950864846836644
+"Calgary, Aosta, Badajoz, Bangalore, Delhi, Hamirpur",PMS5003,6,0.7782651908704427
+"Calgary, Aosta, Badajoz, Bangalore, Delhi, Hamirpur, Lima",PMS5003,7,0.6353282207992347
+"Calgary, Aosta, Badajoz, Bangalore, Delhi, Hamirpur, Lima",PMS5003,8,0.6764673954753992
+"Calgary, Aosta, Badajoz, Bangalore, Delhi, Hamirpur, Lima, Southampton",PMS5003,9,0.328496429299196
+"Calgary, Aosta, Badajoz, Bangalore, Delhi, Hamirpur, Lima, Southampton",PMS5003,10,0.25825055752692294
+"Delhi, Aosta",PMS5003,1,0.8251496855666265
+"Delhi, Aosta, Badajoz",PMS5003,2,0.8480944880510606
+"Delhi, Aosta, Badajoz, Bangalore",PMS5003,3,0.8333500954676218
+"Delhi, Aosta, Badajoz, Bangalore, Calgary",PMS5003,4,0.8407341930074512
+"Delhi, Aosta, Badajoz, Bangalore, Calgary, Hamirpur",PMS5003,6,0.8288534400832113
+"Delhi, Aosta, Badajoz, Bangalore, Calgary, Hamirpur, Lima",PMS5003,7,0.8305661411299534
+"Delhi, Aosta, Badajoz, Bangalore, Calgary, Hamirpur, Lima",PMS5003,8,0.8326138329975298
+"Delhi, Aosta, Badajoz, Bangalore, Calgary, Hamirpur, Lima, Southampton",PMS5003,9,0.837179450664028
+"Delhi, Aosta, Badajoz, Bangalore, Calgary, Hamirpur, Lima, Southampton",PMS5003,10,0.8201116003517397
+"Hamirpur, Aosta",PMS5003,1,0.9681799762650793
+"Hamirpur, Aosta, Badajoz",PMS5003,2,0.9633974687224071
+"Hamirpur, Aosta, Badajoz, Bangalore",PMS5003,3,0.9582470187970028
+"Hamirpur, Aosta, Badajoz, Bangalore, Calgary",PMS5003,4,0.9571697595116595
+"Hamirpur, Aosta, Badajoz, Bangalore, Calgary, Delhi",PMS5003,5,0.9574455230531196
+"Hamirpur, Aosta, Badajoz, Bangalore, Calgary, Delhi, Lima",PMS5003,7,0.9442220057750623
+"Hamirpur, Aosta, Badajoz, Bangalore, Calgary, Delhi, Lima",PMS5003,8,0.9370971454260257
+"Hamirpur, Aosta, Badajoz, Bangalore, Calgary, Delhi, Lima, Southampton",PMS5003,9,0.9435828983868887
+"Hamirpur, Aosta, Badajoz, Bangalore, Calgary, Delhi, Lima, Southampton",PMS5003,10,0.9455422107766308
+"Lima, Aosta",IQAir,1,0.8056905489882866
+"Lima, Aosta, Badajoz",IQAir,2,0.7901097353205836
+"Lima, Aosta, Badajoz, Bangalore",IQAir,3,0.7524552672130549
+"Lima, Aosta, Badajoz, Bangalore, Calgary",IQAir,4,0.7715208689645441
+"Lima, Aosta, Badajoz, Bangalore, Calgary, Delhi",IQAir,5,0.7966326196971418
+"Lima, Aosta, Badajoz, Bangalore, Calgary, Delhi, Hamirpur",IQAir,6,0.788366704839343
+"Lima, Aosta, Badajoz, Bangalore, Calgary, Delhi, Hamirpur",IQAir,7,0.8472065712602057
+"Lima, Aosta, Badajoz, Bangalore, Calgary, Delhi, Hamirpur",IQAir,8,0.753278672595742
+"Lima, Aosta, Badajoz, Bangalore, Calgary, Delhi, Hamirpur, Southampton",IQAir,9,0.7004031312036839
+"Lima, Aosta, Badajoz, Bangalore, Calgary, Delhi, Hamirpur, Southampton",IQAir,10,0.7698293584245685
+"Lima, Aosta",AIRBEAM,1,0.7246371163346069
+"Lima, Aosta, Badajoz",AIRBEAM,2,0.7387676020156491
+"Lima, Aosta, Badajoz, Bangalore",AIRBEAM,3,0.7066830789192036
+"Lima, Aosta, Badajoz, Bangalore, Calgary",AIRBEAM,4,0.6957403728256949
+"Lima, Aosta, Badajoz, Bangalore, Calgary, Delhi",AIRBEAM,5,0.6088122423207101
+"Lima, Aosta, Badajoz, Bangalore, Calgary, Delhi, Hamirpur",AIRBEAM,6,0.6106046654858146
+"Lima, Aosta, Badajoz, Bangalore, Calgary, Delhi, Hamirpur",AIRBEAM,7,0.491562974577222
+"Lima, Aosta, Badajoz, Bangalore, Calgary, Delhi, Hamirpur",AIRBEAM,8,0.6306874617654763
+"Lima, Aosta, Badajoz, Bangalore, Calgary, Delhi, Hamirpur, Southampton",AIRBEAM,9,0.595011724284884
+"Lima, Aosta, Badajoz, Bangalore, Calgary, Delhi, Hamirpur, Southampton",AIRBEAM,10,0.41709835721059163
+"Southampton, Aosta",PMS5003,1,0.9009242583451289
+"Southampton, Aosta, Badajoz",PMS5003,2,0.8710509561019899
+"Southampton, Aosta, Badajoz, Bangalore",PMS5003,3,0.8778823482477369
+"Southampton, Aosta, Badajoz, Bangalore, Calgary",PMS5003,4,0.8717839892283525
+"Southampton, Aosta, Badajoz, Bangalore, Calgary, Delhi",PMS5003,5,0.8615026729132926
+"Southampton, Aosta, Badajoz, Bangalore, Calgary, Delhi, Hamirpur",PMS5003,6,0.8690099202144352
+"Southampton, Aosta, Badajoz, Bangalore, Calgary, Delhi, Hamirpur, Lima",PMS5003,7,0.6164136384055199
+"Southampton, Aosta, Badajoz, Bangalore, Calgary, Delhi, Hamirpur, Lima",PMS5003,8,0.7148445597077382
+"Southampton, Aosta, Badajoz, Bangalore, Calgary, Delhi, Hamirpur, Lima",PMS5003,9,0.5598366155280174
+"Southampton, Aosta, Badajoz, Bangalore, Calgary, Delhi, Hamirpur, Lima",PMS5003,10,0.7079266328785788
+"Southampton, Aosta",SPS030,1,0.9064198502529198
+"Southampton, Aosta, Badajoz",SPS030,2,0.9096610981528809
+"Southampton, Aosta, Badajoz, Bangalore",SPS030,3,0.8799184657064257
+"Southampton, Aosta, Badajoz, Bangalore, Calgary",SPS030,4,0.8681675511348739
+"Southampton, Aosta, Badajoz, Bangalore, Calgary, Delhi",SPS030,5,0.8480254387107469
+"Southampton, Aosta, Badajoz, Bangalore, Calgary, Delhi, Hamirpur",SPS030,6,0.8405824780321225
+"Southampton, Aosta, Badajoz, Bangalore, Calgary, Delhi, Hamirpur, Lima",SPS030,7,0.2606865706261875
+"Southampton, Aosta, Badajoz, Bangalore, Calgary, Delhi, Hamirpur, Lima",SPS030,8,0.3387790558040308
+"Southampton, Aosta, Badajoz, Bangalore, Calgary, Delhi, Hamirpur, Lima",SPS030,9,0.3932975466851286
+"Southampton, Aosta, Badajoz, Bangalore, Calgary, Delhi, Hamirpur, Lima",SPS030,10,0.2045696051601653
